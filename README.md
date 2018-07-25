@@ -7,7 +7,7 @@ https://www.cnblogs.com/leeSmall/p/9351343.html
 搭建keepalived+nginx高可用博客地址：   
 https://www.cnblogs.com/leeSmall/p/9356535.html   
 
-文件说明：
+文件说明：  
 nginx-1.9.0.tar.gz——nginx安装包    
 keepalived-1.3.5.tar.gz——keepalived安装包  
 nginx.conf ——nginx配置文件  
